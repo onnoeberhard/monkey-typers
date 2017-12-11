@@ -18,7 +18,7 @@ public class Main {
 
 		final Random r = new Random();
 
-		for(int i = 0; i < 203; i++) {
+		for(int i = 0; i < 200; i++) {
 			for(int ii = 0; ii < 1000; ii++) {
 				for(int iii = 0; iii < 60; iii++) {
 					for(int iv = 0; iv < 24; iv++) {
